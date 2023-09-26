@@ -1,0 +1,11 @@
+{
+    "name": "Deb Universe",
+    "description": "The universe of debs, not for your computer, for your iPhone!",
+    "tint": "#9900ff",
+    "cname": "github.com/TheGithubJoshua/debuniverse",
+    "maintainer": {
+        "name": "Joshua Wheeler",
+        "email": "joshuawhe@proton.me"
+    },
+    "automatic_git": "true"
+}
